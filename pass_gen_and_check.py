@@ -2,7 +2,7 @@
 """
 Created on Mon Sep  8 17:03:41 2025
 
-@author: nwetherby_een
+@author: nwetherby
 """
 
 import random
@@ -31,3 +31,4 @@ def check_password(password):
         print("This password has not been found in leaks. Should be safe to use.")
         
 check_password(password)
+
